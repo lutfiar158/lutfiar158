@@ -49,6 +49,7 @@ A collaborative, single-page portfolio and landing page built with **semantic HT
 - Building responsive layouts and polished user interfaces.
 - Writing clearer project documentation and setup instructions.
 - Practicing by shipping projects, reviewing what can be improved, and trying again.
+- Following a transparent, milestone-based full-stack learning plan: [Full-Stack Roadmap](https://github.com/lutfiar158/lutfiar158/blob/main/FULLSTACK_ROADMAP.md).
 
 ---
 
